@@ -1,1 +1,0 @@
-Input a region, town and book hotel. List of hotels are saved as a json object. You can select hotel only from the options in the town and region that you choose.
